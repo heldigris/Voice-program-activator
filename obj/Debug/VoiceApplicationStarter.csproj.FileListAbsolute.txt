@@ -1,0 +1,9 @@
+c:\users\hans\documents\visual studio 2015\Projects\VoiceApplicationStarter\bin\Debug\VoiceApplicationStarter.exe.config
+c:\users\hans\documents\visual studio 2015\Projects\VoiceApplicationStarter\bin\Debug\VoiceApplicationStarter.exe
+c:\users\hans\documents\visual studio 2015\Projects\VoiceApplicationStarter\bin\Debug\VoiceApplicationStarter.pdb
+c:\users\hans\documents\visual studio 2015\Projects\VoiceApplicationStarter\obj\Debug\VoiceApplicationStarter.csprojResolveAssemblyReference.cache
+c:\users\hans\documents\visual studio 2015\Projects\VoiceApplicationStarter\obj\Debug\VoiceApplicationStarter.Form1.resources
+c:\users\hans\documents\visual studio 2015\Projects\VoiceApplicationStarter\obj\Debug\VoiceApplicationStarter.Properties.Resources.resources
+c:\users\hans\documents\visual studio 2015\Projects\VoiceApplicationStarter\obj\Debug\VoiceApplicationStarter.csproj.GenerateResource.Cache
+c:\users\hans\documents\visual studio 2015\Projects\VoiceApplicationStarter\obj\Debug\VoiceApplicationStarter.exe
+c:\users\hans\documents\visual studio 2015\Projects\VoiceApplicationStarter\obj\Debug\VoiceApplicationStarter.pdb
